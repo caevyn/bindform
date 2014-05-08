@@ -1,0 +1,13 @@
+{
+  "name": "bindform",
+  "repo": "caevyn/bindform",
+  "description": "Two way binding for form inputs",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
