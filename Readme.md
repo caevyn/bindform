@@ -7,7 +7,7 @@ A plugin for [ripplejs](http://ripplejs.github.io/) for 2 way binding on form in
     <input type="text" bind-form="{{customer.lastName}}" />
 
 ## License
- https://github.com/ripplejs/ripple
+ 
   The MIT License (MIT)
 
   Copyright (c) 2014 <copyright holders>
