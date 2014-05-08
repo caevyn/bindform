@@ -1,10 +1,13 @@
 #bind-form
-A plugin for ripplejs for 2 way binding on form inputs.
+A plugin for [ripplejs](http://ripplejs.github.io/) for 2 way binding on form inputs.
+
+    var bindform = require('bindform');
+    var MyView = ripple('#myripple').use(bindform);
 
     <input type="text" bind-form="{{customer.lastName}}" />
 
 ## License
-
+ https://github.com/ripplejs/ripple
   The MIT License (MIT)
 
   Copyright (c) 2014 <copyright holders>
