@@ -1,6 +1,8 @@
 #bind-form
 A plugin for ripplejs for 2 way binding on form inputs.
 
+    <input type="text" bind-form="{{customer.lastName}}" />
+
 ## License
 
   The MIT License (MIT)
